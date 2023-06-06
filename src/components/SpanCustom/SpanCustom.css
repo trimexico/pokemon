@@ -1,0 +1,16 @@
+.__SpanCustom__ {
+  font-family: "Flexo-Medium", arial, sans-serif;
+  border-radius: 3px;
+  line-height: 25px;
+  max-width: 110px;
+  min-width: 70px;
+  margin: 0 1.5625% 0 0;
+  width: 38.4375%;
+  float: left;
+
+  text-transform: none;
+  font-size: 12px;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+}

@@ -1,0 +1,18 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -20px;
+}
+.submit {
+  padding: 10px;
+  color: rgb(184, 230, 16);
+  background-color: blue;
+  border-radius: 10px;
+  border-color: blue;
+  cursor: pointer;
+}
+.home-Search {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
